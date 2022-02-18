@@ -1,0 +1,16 @@
+﻿,SMILES,lambda_max_exp_nm,solvent,ref,description
+1,C1=CC=CCC1,256,hexane,ref-folder,"1,3-cyclohexadiene"
+2,C1CCCC=C1C(=O)C,232,ethanol,"spectroscopy of organic compounds, P.S. Kalsi",1-acetylcyclohexene
+3,C(=C\C)/C=C,223.5,hexane,ref-folder,piperylene
+4,C=CC(=C)C,220,hexane,ref-folder,s-trans-isoprene
+5,C1CC=C2C(C1)CCCC2=O,246,ethanol,ref-folder,"3,4,4a,5,6,7-Hexahydro-2H-naphthalen-1-one"
+6,CC1=CC(=O)CC(C1)(C)C,235,methanol,ref-folder,isophorone
+7,C1=CC=C(C=C1)N=NC2=CC=CC=C2,319,benzene,PhotochemCAD,azobenzene
+8,Fc1c(F)c(F)c2c(c1F)cc1c(n2)onc1C,335,ethanol,ref-folder,
+9,CN(C)C1=CC=C(C=C1)C1=C(C#N)C(=O)N(C)C1=O,543,ethanol,set-ref-17,
+10,N#Cc1ccc(nc1)c1ccc(cc1)F,329,chloroform,beard,2-(4-fluorophenyl)-5-cyanopyridine
+11,CNc1ccccc1,260,hexane,beard,N-methylaniline
+12,C1=CC(=O)C=CC1=O,240.5,n-heptane,ref-folder,"1,4-benzoquinone"
+13,C(=O)(C(=C)C)CC,220,ethanol,pbe0 (is the data wrong??) ,2-methyl-1-pentene-3-one
+14,[B-]1(N2C=CC=C2C=C3[N+]1=CC=C3)(F)F,503.5,cyclohexane,ref-folder,bodipy
+15,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C,372,ethanol,CAD,all-trans-retinal
