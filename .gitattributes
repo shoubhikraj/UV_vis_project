@@ -1,0 +1,4 @@
+*.csv text
+*.py text
+*.out text
+*.sh text eol=lf
