@@ -1,0 +1,14 @@
+,SMILES,lambda_max_exp_nm,range_min,range_max,solvent,reference,description,mol_wt
+1230,C=Cc1ccc(OC)c(OC)c1,309.0,,,cyclohexane,10.1021/jo052123d,DBtag:8099,164.0837296
+821,N#Cc1ccc(-c2nc(-c3ccccc3)c3ccccn23)cc1,380.0,,,dichloromethane,http://dx.doi.org/10.1016/j.dyepig.2016.09.056,DBtag:1622,295.1109474
+339,c1ccc(-c2cc(-c3ccc4ccc5cccc6ccc3c4c56)ccn2)nc1,342.9943406,,,ethanol,10.1021/jp000658z,DBtag:7518,356.1313485
+589,c1ccc2c(c1)ccc1ccc3ccc4ccccc4c3c12,393.0,,,chloroform,DOI: 10.1021/acs.orglett.7b00548,DBtag:2109,278.1095504
+1201,N#CC1CC(C(N)=O)N2N=CC=CC12,326.0,,,ethanol,set-ref-7,4b,190.0854609
+1197,CCN(CC)c1ccc2cc(-c3nc4ccccc4[nH]3)c(=O)oc2c1,436.0,300.0,600.0,ethanol,photochemCAD,coumarin 7,333.1477268
+2065,CCCCN1C(=S)c2cccc3cccc(c23)C1=S,443.0,,,dimethylsulfoxide,https://doi.org/10.1021/jacs.9b09220,DBtag:12757,285.0645915
+875,CN(c1ccccc1)c1c([O-])/c(=[N+](\C)c2ccccc2)c1=O,387.0,,,dimethylformamide,http://dx.doi.org/10.1016/j.dyepig.2015.06.025,DBtag:4625,292.1211778
+1223,Cc1cnc(/N=N/c2ccc(-c3cccs3)s2)s1,501.0,350.0,650.0,dimethylsulfoxide,set-ref-8,5a,290.9958603
+426,Cc1nc(-c2ccccc2)c2ccccn12,367.0,,,dichloromethane,http://dx.doi.org/10.1016/j.dyepig.2016.09.056,DBtag:1618,208.1000484
+627,Cc1cc(O)c(C(=O)/C=C/c2cccc(O)c2)c(=O)o1,374.0,,,dichloromethane,http://dx.doi.org/10.1016/j.molstruc.2017.07.089,DBtag:1243,272.0684735
+271,c1ccc(-c2csc(-c3ccncc3)n2)cc1,325.0,,,ethanol,https://doi.org/10.1016/j.dyepig.2019.02.051,DBtag:1579,238.0564693
+1298,O=C1NC(c2ccccc2)=C2C(=O)OC(c3ccccc3)=C12,487.0,,,dimethylsulfoxide,set-ref-21,12a,289.0738932
