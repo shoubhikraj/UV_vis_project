@@ -1,16 +1,6 @@
 #!/bin/bash
-#$ -q all.q
-#$ -N xtbstdarun
-#$ -l fat
-#$ -pe smp 4
-#$ -o $HOME/logs
-#$ -S /bin/bash -cwd -j y
 
-set host=`hostname -s`
-set OMP_NUM_THREADS=4
-module load stda
-
-cd $SGE_O_WORKDIR
+# cp ../std_xtb_run/*.xyz ./
 
 for i in {0..19..1}
   do
