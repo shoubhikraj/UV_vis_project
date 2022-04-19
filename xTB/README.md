@@ -1,5 +1,3 @@
-## UV-vis absorption prediction with hybrid TD-DFT/machine learning approach
-
 The file "total_set_for_xTB.csv" contains the experimental absorption wavelengths for 3133 dye or dye-like molecules. The data has been collected from three different sources, from PhotochemCAD, Beard et al.[1] database and Joung et al.[2] database. For datapoints collected from photochemCAD, the description mentions the name of the compound as described in photochemCAD database. For Beard et al. database, due to several errors being discovered in all cases the original paper had to be obtained. These entries have "set-ref-*" in the reference column, and the description column mentions the identifier used in that paper for that molecule. For the entries collected from Joung et al. database, the reference column has the doi of the paper copied from the original database and the description column mentions the tag number of the molecule in their database.
 
 

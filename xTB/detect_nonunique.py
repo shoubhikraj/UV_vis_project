@@ -2,6 +2,8 @@ import pandas as pd
 from rdkit import Chem
 import sys
 
+## This python script detects non-unique entries in a csv files with SMILES, the file has to be passed as the first argument: python detect_nonunique.py total_set_for_xTB.csv
+
 def is_same_smiles(smi1,smi2):
     m1 = Chem.MolFromSmiles(smi1)
     m2 = Chem.MolFromSmiles(smi2)

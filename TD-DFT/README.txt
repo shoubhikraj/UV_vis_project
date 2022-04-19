@@ -1,0 +1,1 @@
+With TD-DFT only benchmark was done. For benchmark the same 20 molecules were used. The benchmark folder contains all of the data.

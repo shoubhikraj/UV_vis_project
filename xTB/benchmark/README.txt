@@ -1,4 +1,4 @@
-The benchmark_molecules.csv files contains the molecules used for benchmarking, containing 20 molecules and their absorption peaks. The column "lambda_max_exp_nm" contained the experimentally recorded absorption wavelengths in nanometres, while the "abs_max_ev" column contains the absorption maxima in eV units, converted from nm. To run the calculations on those molecules, do the following in order:
+The benchmark_molecules.csv files contains the molecules used for benchmarking, containing 20 randomly selected molecules from the training set and their absorption peaks. The column "lambda_max_exp_nm" contained the experimentally recorded absorption wavelengths in nanometres, while the "abs_max_ev" column contains the absorption maxima in eV units, converted from nm. To run the calculations on those molecules from scratch delete all of the molfiles and output files, and then do the following in order:
 
 1. run ./generated_molfiles/generate_mol.py => this generated molfiles from SMILES using RDKit. (The python packages pandas and rdkit must be installed)
 

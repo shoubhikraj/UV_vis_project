@@ -3,3 +3,6 @@
 *.out text
 *.sh text eol=lf
 *.inp text
+*.txt text
+*.md text
+

@@ -10,5 +10,5 @@ test = df.drop(train.index)
 test.reset_index(drop=True,inplace=True)
 test.to_csv('test_dataset.csv')
 
-low_mw = train[train.mol_wt<400]
-low_mw.sample(n=13,random_state=200).to_csv('bench_remaining.csv')
+#low_mw = train[train.mol_wt<400]
+#low_mw.sample(n=13,random_state=200).to_csv('bench_remaining.csv')
