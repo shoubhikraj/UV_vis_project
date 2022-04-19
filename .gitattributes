@@ -2,3 +2,4 @@
 *.py text
 *.out text
 *.sh text eol=lf
+*.inp text
