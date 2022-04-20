@@ -8,4 +8,4 @@ The benchmark_molecules.csv files contains the molecules used for benchmarking, 
 
 4. run ./std_xtb_run/mol_to_xyz.sh, and then run-all-script.sh in the same folder => the first script converts molfiles to xyz (requires openbabel) and the second script runs xtb4stda and stda. The *.out files generated are the outputs from stda software (This is for sTD-xTB run i.e. full sTD-DFT treatment on xTB hamiltonian)
 
-5. (optional) copy all *.xyz files from ./std_xtb_run/ folder into ./stda_run/ folder, then run ./stda_run/run-all-stda.sh => this does the same calculation, but instead with sTDA-xTB method i.e. Tamm-Dancoff approximation on xTB hamiltonian
+5. copy all *.xyz files from ./std_xtb_run/ folder into ./stda_run/ folder, then run ./stda_run/run-all-stda.sh => this does the same calculation, but instead with sTDA-xTB method i.e. Tamm-Dancoff approximation on xTB hamiltonian
